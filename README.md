@@ -65,15 +65,3 @@ For a better development experience (e.g. live reload):
   python3 -m http.server 8000
   ```
   Then visit `http://localhost:8000` in your browser.
-
----
-
-## 💡 Exercises & Next Steps for Students
-
-Want to practice and extend this project? Here are some recommended challenges:
-
-1. **Add Clickable Links**: Update each resource in `script.js` to include a `url` property and render an `<a>` tag inside each card.
-2. **Combine Search and Filter**: Update the filtering logic so searching works within the currently selected category.
-3. **Active Button Highlight**: Dynamically toggle the `.active` class on the clicked category button.
-4. **Add Resource Form**: Build a small form on the page allowing users to add their own resources dynamically.
-5. **Persistence**: Store added resources in the browser's `localStorage` so they persist across page refreshes.
