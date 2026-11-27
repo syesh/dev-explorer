@@ -6,7 +6,7 @@ Built using **HTML, CSS, and JavaScript**, it features an interactive resource d
 
 ## 🌐 Live Demo
 
-**[View Live Demo](YOUR_DEMO_LINK)**
+**https://syesh.github.io/dev-explorer/**
 
 ## ✨ Features
 
